@@ -90,15 +90,25 @@ The application will be available at `http://localhost:8000`.
 ## API Endpoints
 
 The backend provides the following API endpoints:
+
 *GET /api/events: Fetch all events.
+
 *POST /api/events: Create a new event.
+
 *GET /api/events/{id}: Fetch details of a single event.
+
 *PUT /api/events/{id}: Update an event.
+
 *DELETE /api/events/{id}: Delete an event.
+
 *POST /api/events/{id}/comments: Post a comment to an event.
+
 *GET /api/events/{id}/comments: Fetch all comments for an event.
+
 *DELETE /api/events/{id}/comments/{commentId}: Delete a comment.
+
 *POST /api/events/{id}/attendance: Confirm attendance for an event.
+
 *DELETE /api/events/{id}/attendance: Decline attendance for an event.
 
 ## Usage 
