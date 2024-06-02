@@ -1,1 +1,1 @@
-# Event Management (Part: Backend) 
+# Event Management App (Part: Backend) 
