@@ -5,6 +5,7 @@ This is the backend part of the Event Management application. It is built with L
 ***For the frontend part of this project, visit the [Event Management Frontend Repository](https://github.com/TheRIS0/Event-Management-Frontend).***
 
 ## Features
+
 * ***Event Management:*** Create, read, update, and delete events.
 * ***User Management:*** Manage users and their roles.
 * ***Comment System:*** Users can add comments to events and engage in discussions.
@@ -12,15 +13,20 @@ This is the backend part of the Event Management application. It is built with L
 * ***API:*** Provides a comprehensive API for frontend interaction.
 
 ## Technologies Used
+
 * Laravel: A PHP framework for web artisans.
 * MySQL: A relational database management system.
 * Composer: Dependency management for PHP.
 * PHP: The scripting language for backend development.
 
 ## Installation
+
 ***Prerequisites:*** 
+
 *PHP installed on your machine.
+
 *Composer installed on your machine.
+
 *MySQL installed and running.
 
 ## Steps
