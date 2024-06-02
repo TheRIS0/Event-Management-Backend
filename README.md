@@ -14,20 +14,20 @@ This is the backend part of the Event Management application. It is built with L
 
 ## Technologies Used
 
-* Laravel: A PHP framework for web artisans.
-* MySQL: A relational database management system.
-* Composer: Dependency management for PHP.
-* PHP: The scripting language for backend development.
+- Laravel: A PHP framework for web artisans.
+- MySQL: A relational database management system.
+- Composer: Dependency management for PHP.
+- PHP: The scripting language for backend development.
 
 ## Installation
 
 ***Prerequisites:*** 
 
-*PHP installed on your machine.
+-PHP installed on your machine.
 
-*Composer installed on your machine.
+-Composer installed on your machine.
 
-*MySQL installed and running.
+-MySQL installed and running.
 
 ## Steps
 
@@ -88,34 +88,25 @@ The application will be available at `http://localhost:8000`.
 
 ## Key Components
 
-* Controllers: Handle incoming HTTP requests and return responses.
-* Models: Represent the data and business logic.
-* Migrations: Manage the database schema.
-* Seeders: Seed the database with initial data.
+- Controllers: Handle incoming HTTP requests and return responses.
+- Models: Represent the data and business logic.
+- Migrations: Manage the database schema.
+- Seeders: Seed the database with initial data.
 
 ## API Endpoints
 
 The backend provides the following API endpoints:
 
-*GET /api/events: Fetch all events.
-
-*POST /api/events: Create a new event.
-
-*GET /api/events/{id}: Fetch details of a single event.
-
-*PUT /api/events/{id}: Update an event.
-
-*DELETE /api/events/{id}: Delete an event.
-
-*POST /api/events/{id}/comments: Post a comment to an event.
-
-*GET /api/events/{id}/comments: Fetch all comments for an event.
-
-*DELETE /api/events/{id}/comments/{commentId}: Delete a comment.
-
-*POST /api/events/{id}/attendance: Confirm attendance for an event.
-
-*DELETE /api/events/{id}/attendance: Decline attendance for an event.
+-GET /api/events: Fetch all events.
+-POST /api/events: Create a new event.
+-GET /api/events/{id}: Fetch details of a single event.
+-PUT /api/events/{id}: Update an event.
+-DELETE /api/events/{id}: Delete an event.
+-POST /api/events/{id}/comments: Post a comment to an event.
+-GET /api/events/{id}/comments: Fetch all comments for an event.
+-DELETE /api/events/{id}/comments/{commentId}: Delete a comment.
+-POST /api/events/{id}/attendance: Confirm attendance for an event.
+-DELETE /api/events/{id}/attendance: Decline attendance for an event.
 
 ## Usage 
 
