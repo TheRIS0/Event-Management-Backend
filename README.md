@@ -1,7 +1,8 @@
 # Event Management App (Part: Backend) 
 
 This is the backend part of the Event Management application. It is built with Laravel and MySQL, providing a robust API for managing events and user interactions.
-For the frontend part of this project, visit the [Event Management Frontend Repository](https://github.com/TheRIS0/Event-Management-Frontend).
+
+***For the frontend part of this project, visit the [Event Management Frontend Repository](https://github.com/TheRIS0/Event-Management-Frontend).***
 
 ## Features
 * ***Event Management:*** Create, read, update, and delete events.
