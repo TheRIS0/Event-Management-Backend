@@ -59,6 +59,12 @@ DB_DATABASE=your_database_name
 DB_USERNAME=your_username
 DB_PASSWORD=your_password
 ```
+In MYSQL create a new database:
+
+```bash
+CREATE DATABASE event_management;
+```
+
 d) Run migrations:
 
 ```bash
