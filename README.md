@@ -6,11 +6,11 @@ This is the backend part of the Event Management application. It is built with L
 
 ## Features
 
-* ***Event Management:*** Create, read, update, and delete events.
-* ***User Management:*** Manage users and their roles.
-* ***Comment System:*** Users can add comments to events and engage in discussions.
-* ***Attendance Tracking:*** Track user attendance for events.
-* ***API:*** Provides a comprehensive API for frontend interaction.
+- ***Event Management:*** Create, read, update, and delete events.
+- ***User Management:*** Manage users and their roles.
+- ***Comment System:*** Users can add comments to events and engage in discussions.
+- ***Attendance Tracking:*** Track user attendance for events.
+- ***API:*** Provides a comprehensive API for frontend interaction.
 
 ## Technologies Used
 
