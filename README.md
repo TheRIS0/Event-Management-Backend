@@ -24,6 +24,7 @@ This is the backend part of the Event Management application. It is built with L
 *MySQL installed and running.
 
 ## Steps
+
 1. Clone the repository:
 
 ```bash
@@ -38,6 +39,7 @@ composer install
 ```
 
 3. Set up the environment:
+
 a) Copy the .env.example file to .env:
 
 ```bash
